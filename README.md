@@ -9,10 +9,11 @@
 - IGPU
 - Audio
 - HDMI + Audio (SSDT_HDAU.aml enabled audio)
+- SD card reader
+- Native Power Management (Added CP00 to SSDT_PLUG.aml)
 
 ## Not working
 - Original WiFi module
-- SD card reader
 
 ## Not sure
 - Realtek 8111 Ethernet
